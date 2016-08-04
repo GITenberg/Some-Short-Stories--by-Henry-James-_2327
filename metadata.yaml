@@ -1,0 +1,28 @@
+_repo: Some-Short-Stories--by-Henry-James-_2327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_issued: '2000-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: "Brooksmith\r\nThe Real Thing\r\nThe Story of It\r\nFlickerbridge\r\
+  \nMrs. Medwin"
+title: Some Short Stories [by Henry James]
+url: http://www.gutenberg.org/ebooks/2327
